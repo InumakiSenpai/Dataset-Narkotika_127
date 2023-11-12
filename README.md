@@ -1,12 +1,13 @@
 # Dataset-Narkotika_127
 
 **Scraping**
+
 Scraping, atau web scraping, adalah proses ekstraksi data dari situs web. Ini melibatkan penggunaan program komputer atau skrip untuk mengambil dan mengumpulkan informasi tertentu dari halaman web. Aktivitas scraping ini dapat dilakukan secara otomatis dengan menggunakan bot atau program khusus.
 
 **Proses scraping umumnya melibatkan tiga langkah utama:**
 1. Pengambilan Data: Pada langkah ini, program atau skrip akan mengakses halaman web dan mengunduh HTML atau data lainnya.
 
-. Pemrosesan Data: Setelah data diunduh, langkah berikutnya adalah memprosesnya. Ini mungkin melibatkan pemilihan elemen tertentu dari HTML, pemfilteran informasi yang tidak diinginkan, atau pengubahan format data.
+2. Pemrosesan Data: Setelah data diunduh, langkah berikutnya adalah memprosesnya. Ini mungkin melibatkan pemilihan elemen tertentu dari HTML, pemfilteran informasi yang tidak diinginkan, atau pengubahan format data.
 
 3. Penyimpanan Data: Setelah data diolah, hasilnya dapat disimpan dalam format yang sesuai, seperti file CSV, Excel, atau basis data.
 
